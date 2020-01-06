@@ -1,0 +1,20 @@
+Functionality
+
+default mode Session mode, Session consists of 3 to 5 Intervals
+after Session half an hour break
+Sessions have a date and a timespan and a median of the intervals ratings and loss of focus
+intervals have a timespan rating and time of loss of focus
+Sessions are stored regarding their date 
+
+
+Program 
+
+Settings ! new Session 
+
+Session
+
+Interval break Interval break Interval long break next Session
+
+breaks and starting of Interval require user input, timestamp is stored so that break time + is stored for session
+
+How to store Data in python ?? mysql but how
